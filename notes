@@ -1,0 +1,17 @@
+Three A's or AAA
+Arrange - Define's the testing environment & values
+Act - Run the actual code / function that should be tested
+Assert - Evaluate the produced value / result and compare it to the expected value / result
+Only test Your code e.g. Fetch()API
+
+1. Don't test if it works as intended
+2. Don't test your server-side code implicitly via your client-side code
+3. Write separate tests for your backend code instead
+   Do Test your client-side reaction to different responses & errors
+
+Rules in writing Good tests
+
+1. Arrange-Act-Assert
+2. Only test one thing
+3. Focus on the essence of a test when arranging
+4. Keep your number of assertions("expects")low
