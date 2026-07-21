@@ -15,3 +15,7 @@ Rules in writing Good tests
 2. Only test one thing
 3. Focus on the essence of a test when arranging
 4. Keep your number of assertions("expects")low
+
+Spies & Mocks
+Spies - Wrappers around functions of empty replacements for functions that allow you teack if & how function was called.
+Mocks - A replacement for an API that may provide some test-specific behavior instead.
