@@ -19,3 +19,16 @@ Rules in writing Good tests
 Spies & Mocks
 Spies - Wrappers around functions of empty replacements for functions that allow you teack if & how function was called.
 Mocks - A replacement for an API that may provide some test-specific behavior instead.
+
+NodeJS
+
+- NodeJS API's & modules are available
+  -Can't interact with browser & browser API's
+
+JSDOM
+-(Virtual) Browser environment with browser API's & the DOM.
+-ideal for testing frontend code & projects.
+
+Happy-DOM
+-(Virtual) Browser environment with browser API's & the DOM.
+-ideal for testing frontend code & projects.
